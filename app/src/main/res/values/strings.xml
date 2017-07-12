@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Camera example</string>
+    <string name="getPhoto">Get photo</string>
+</resources>
