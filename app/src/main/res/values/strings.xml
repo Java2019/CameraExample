@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Camera example</string>
     <string name="getPhoto">Get photo</string>
+    <string name="set">Settings</string>
 </resources>
